@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: #131313;
+  overflow: hidden;
+}
+
+#pixels {
+  position: fixed;
+  inset: 0;
+  display: block;
+}
